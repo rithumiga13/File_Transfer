@@ -1,8 +1,4 @@
-Great — I will generate a **perfect README.md** for your `File_Transfer` project.
 
-Here is a clean, professional, GitHub-ready README:
-
----
 
 # 🔐 Secure File Transfer System (C + AES-256 + Sockets)
 
